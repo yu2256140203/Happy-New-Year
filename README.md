@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Pages 
+祝春节快乐！
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+#### 安装教程
+
+1.  npm install   
+> 安装必要环境
+2.  npm run dev   
+> 运行vue页面，在127.0.0.1:3000打开
+3.  npm run build 
+> 打包生成的dist文件为对应的静态文件
+
+
+
+#### 参与贡献
+
+  @yu_jerry 
